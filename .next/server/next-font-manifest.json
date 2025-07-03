@@ -1,0 +1,16 @@
+{
+  "app": {
+    "[project]/src/app/dashboard/page": [
+      "static/media/iJWKBXyIfDnIV7nBrXyw023e-s.p.11ef9cda.woff2"
+    ],
+    "[project]/src/app/page": [
+      "static/media/iJWKBXyIfDnIV7nBrXyw023e-s.p.11ef9cda.woff2"
+    ],
+    "[project]/src/app/sign-up/[[...sign-up]]/page": [
+      "static/media/iJWKBXyIfDnIV7nBrXyw023e-s.p.11ef9cda.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
